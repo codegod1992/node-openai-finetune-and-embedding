@@ -1,0 +1,7 @@
+#loading {
+  background: url( '/img/loading.gif' ) no-repeat 5px 8px!important;
+  padding-left: 25px!important;
+}
+.loading-screen-window .ui-dialog-titlebar-close {
+  display: none;
+}

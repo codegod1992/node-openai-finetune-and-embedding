@@ -1,0 +1,6 @@
+node_modules
+README.html
+public/build.json
+public/api.html
+docs/client/
+docs/server/

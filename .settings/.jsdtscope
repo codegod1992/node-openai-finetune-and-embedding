@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="node_modules/|public/js/lib/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipselabs.jsdt.jquery.core.CoflictLibrary_1.7"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
